@@ -1,0 +1,3 @@
+[submodule "C-DataStructures"]
+	path = C-DataStructures
+	url = https://github.com/KevinTyrrell/C-DataStructures
